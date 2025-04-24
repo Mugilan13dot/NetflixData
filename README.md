@@ -3,7 +3,11 @@
 ## Introduction  
 🔍 Ever wondered what trends shape the Netflix content library? This project dives into the vast Netflix dataset to uncover insights about genres, content ratings, yearly additions, and global availability. Built using Power BI, this interactive dashboard offers a rich visual exploration of shows and movies available on the platform.
 
-📍 View the dashboard here: [Insert Power BI Public link or GitHub Pages link]
+📍 View the dashboard here: [NetflixData](/NetflixData/netflixdata.pbix)
+
+![Dashboard_1](/NetflixData/Asset/Dashboard_1.png)
+
+![Dashboard_2](/NetflixData/Asset/Dashboard_2.png)
 
 ---
 
